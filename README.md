@@ -4,8 +4,8 @@
 ## Assignment: Indian ID OCR Script
 
 
-# Problem Statement: You need to write a Node.js Script which takes an image of any one Government Ids: like Aadhar, Pan Card, and Driving License, and returns Extracted Details in JSON Format
-# Example Input ➝ pancar, addharcard,drivinglicense
+### Problem Statement: You need to write a Node.js Script which takes an image of any one Government Ids: like Aadhar, Pan Card, and Driving License, and returns Extracted Details in JSON Format
+### Example Input ➝ pancar, addharcard,drivinglicense
 
 
 
